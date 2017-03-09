@@ -1,3 +1,27 @@
+## Iceland Main Links:
+
+[Road Conditions - http://www.road.is/travel-info/road-conditions-and-weather/](http://www.road.is/travel-info/road-conditions-and-weather/west-iceland-road-conditions-map/)
+- dial 1778 for information in English
+
+[Weather - http://en.vedur.is/](http://en.vedur.is/)
+- dial 902 0600 for recording
+
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/rusac/iceland/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
