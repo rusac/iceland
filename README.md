@@ -6,7 +6,7 @@
 [Weather - http://en.vedur.is/](http://en.vedur.is/)
 - dial 902 0600 for recording
 
-[Emergency - in case of emeergency:]
+[Emergency - in case of emeergency:](http://safetravel.is/)
 - dial 112
 <BR>
 <BR>
