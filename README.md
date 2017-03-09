@@ -1,11 +1,13 @@
 ## Iceland Main Links:
 
-[Road Conditions - http://www.road.is/travel-info/road-conditions-and-weather/](http://www.road.is/travel-info/road-conditions-and-weather/west-iceland-road-conditions-map/)
+[Road Conditions - http://www.road.is/](http://www.road.is/travel-info/road-conditions-and-weather/west-iceland-road-conditions-map/)
 - dial 1778 for information in English
 
 [Weather - http://en.vedur.is/](http://en.vedur.is/)
 - dial 902 0600 for recording
 
+[Emergency - in case of emeergency:]
+- dial 112
 <BR>
 <BR>
 <BR>
