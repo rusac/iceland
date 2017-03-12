@@ -17,6 +17,7 @@
 [Snaefellsnes Peninsula day trip](http://www.iheartreykjavik.net/2015/04/drive-it-yourself-the-snaefellsnes-peninsula/)
 
 [Golden Circle day trip](http://www.iheartreykjavik.net/2014/12/drive-it-yourself-the-golden-circle/)
+- [Route map on google](https://www.google.com/maps/d/viewer?mid=10OxrFPebP3r_lZcvGnJvdhRIxT0&ll=64.1032504032615%2C-20.80105394531256&z=10)
 <BR>
 <BR>
 <BR>
